@@ -1,0 +1,7 @@
+C:\GitHub\SPFDatabaseCorrector\SPFDatabaseCorrector\bin\Debug\SPFDatabaseCorrector.exe.config
+C:\GitHub\SPFDatabaseCorrector\SPFDatabaseCorrector\bin\Debug\SPFDatabaseCorrector.exe
+C:\GitHub\SPFDatabaseCorrector\SPFDatabaseCorrector\bin\Debug\SPFDatabaseCorrector.pdb
+C:\GitHub\SPFDatabaseCorrector\SPFDatabaseCorrector\bin\Debug\MySql.Data.dll
+C:\GitHub\SPFDatabaseCorrector\SPFDatabaseCorrector\obj\Debug\SPFDatabaseCorrector.exe
+C:\GitHub\SPFDatabaseCorrector\SPFDatabaseCorrector\obj\Debug\SPFDatabaseCorrector.pdb
+C:\GitHub\SPFDatabaseCorrector\SPFDatabaseCorrector\obj\Debug\SPFDatabaseCorrector.csprojResolveAssemblyReference.cache
